@@ -151,3 +151,18 @@ No se dispone de despliegue en producción, por lo que no existen métricas onli
 5. El modelo puede utilizarse como herramienta de apoyo para programas de retención de talento y gestión preventiva del riesgo de rotación.
 
 Versión de desarrollo creada para fines académicos.
+
+## Estrategia Git
+
+Para el desarrollo del proyecto se utilizó una estrategia simple basada en dos ramas:
+
+- main: rama principal con la versión estable del proyecto.
+- development: rama utilizada para realizar cambios y mejoras.
+
+Flujo de trabajo:
+
+1. Creación de la rama development.
+2. Realización de modificaciones al proyecto.
+3. Creación de Pull Request.
+4. Merge de development hacia main.
+5. Generación de la Release v1.0.0.
