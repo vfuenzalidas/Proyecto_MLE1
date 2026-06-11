@@ -150,3 +150,4 @@ No se dispone de despliegue en producción, por lo que no existen métricas onli
 
 5. El modelo puede utilizarse como herramienta de apoyo para programas de retención de talento y gestión preventiva del riesgo de rotación.
 
+Versión de desarrollo creada para fines académicos.
